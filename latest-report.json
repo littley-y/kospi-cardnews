@@ -3,27 +3,23 @@
   "analysis_type": "After-market",
   "report_title": "6월 25일 저평가 대장주 리포트",
   "market_summary": {
-    "kospi_performance": "KOSPI 8,930.30, +5.42% 급등 마감. 반면 KOSDAQ은 887.81, -2.36%로 약세여서 대형주 중심 장세가 뚜렷했습니다.",
-    "market_trading_value": "시장 전체 거래대금 합계는 확인 불가(16:00 기준). 개별 기준으로 SK하이닉스 약 19.5조원, 삼성전자 약 12.9조원, SK스퀘어 약 2.8조원, 삼성전자우 약 1.9조원이 상위권을 형성했습니다.",
+    "kospi_performance": "KOSPI 8,930.30, +5.42%. 반도체 초대형주와 SK그룹주 강세가 지수 급등을 주도.",
+    "market_trading_value": "시장 전체 거래대금은 확인 불가(16:00 기준). 개별 기준 SK하이닉스 약 19.5조원, 삼성전자 약 12.9조원, SK스퀘어 약 2.76조원으로 대형주 쏠림이 매우 강함.",
     "strongest_sectors": [
       "HBM/메모리 반도체",
       "AI 서버 공급망",
-      "SK그룹 지주·반도체 밸류체인",
-      "기업 밸류업/지주회사",
-      "항공·여행",
-      "재생에너지/풍력",
-      "건설",
-      "리테일·소비",
-      "전력·유틸리티"
+      "지주회사/기업가치 제고",
+      "재생에너지",
+      "조선·해상풍력 구조물",
+      "저PBR 가치주"
     ],
-    "market_tone": "대형 반도체와 SK그룹주가 지수를 강하게 끌어올린 쏠림형 강세장입니다. 실질 대장주는 거래대금과 시총을 동시에 충족한 SK하이닉스·삼성전자·SK스퀘어 중심으로 판단됩니다.",
+    "market_tone": "초강세장이지만 상승 축이 반도체와 SK 계열에 집중된 선택적 랠리. KOSDAQ은 -2.36%로 차별화가 뚜렷함.",
     "key_macro_or_policy_drivers": [
-      "연합뉴스: 하이닉스 장중 15% 급등, 삼성전자도 5%대 상승",
-      "연합뉴스: 코스피 +5.4% 급등 마감",
-      "연합뉴스: 원/달러 환율 1,542.7원 마감으로 고환율 부담 지속",
-      "연합뉴스: 국고채 금리 일제히 하락",
-      "연합뉴스: 항공주, 국제유가 60달러선에 급등 마감",
-      "연합뉴스: KCC, 증권가 실적 개선 전망 속 11% 급등"
+      "마이크론 훈풍에 따른 글로벌 메모리/HBM 투자심리 개선",
+      "SK하이닉스 ADR 상장 관련 재평가 기대와 시총 1위 경쟁 이슈",
+      "국고채 금리 하락",
+      "원/달러 환율 1,540원대 고공행진으로 수출주와 외국인 수급 민감도 확대",
+      "KCC 실적 개선 전망 보도"
     ]
   },
   "leading_practical_themes": [
@@ -31,111 +27,90 @@
       "rank": 1,
       "theme": "HBM",
       "strength": "Strong",
-      "key_catalyst": "SK하이닉스 +13.06%, 거래대금 약 19.5조원으로 압도적 주도. AI 메모리 대표주 프리미엄이 재부각됐습니다.",
+      "key_catalyst": "마이크론 훈풍 및 AI 메모리 업황 재점화",
       "leader_candidate": "SK하이닉스(000660)"
     },
     {
       "rank": 2,
       "theme": "Memory Semiconductors",
       "strength": "Strong",
-      "key_catalyst": "SK하이닉스와 삼성전자가 동반 급등하며 KOSPI 상승을 주도했습니다.",
+      "key_catalyst": "반도체 대형주에 거래대금 집중",
       "leader_candidate": "SK하이닉스(000660), 삼성전자(005930)"
     },
     {
       "rank": 3,
       "theme": "AI Server Supply Chain",
       "strength": "Strong",
-      "key_catalyst": "AI 서버 수요 기대가 반도체 대형주와 SK스퀘어로 확산됐습니다.",
-      "leader_candidate": "SK스퀘어(402340)"
+      "key_catalyst": "AI 서버용 메모리·부품 수요 기대",
+      "leader_candidate": "SK하이닉스(000660)"
     },
     {
       "rank": 4,
-      "theme": "Corporate Value-up",
+      "theme": "Holding Companies",
       "strength": "Strong",
-      "key_catalyst": "SK +20.51%, SK네트웍스 +13.33%, 삼성물산 +7.79% 등 지주·자산주 강세가 확대됐습니다.",
-      "leader_candidate": "SK(034730)"
+      "key_catalyst": "SK 계열 동반 급등 및 자회사 가치 재평가",
+      "leader_candidate": "SK(034730), SK스퀘어(402340)"
     },
     {
       "rank": 5,
-      "theme": "Holding Companies",
+      "theme": "Corporate Value-up",
       "strength": "Strong",
-      "key_catalyst": "SK그룹 지주 및 계열 지분가치 재평가가 동시다발적으로 반영됐습니다.",
-      "leader_candidate": "SK(034730), SK스퀘어(402340)"
+      "key_catalyst": "지주·우선주·저PBR 대형주 재평가",
+      "leader_candidate": "SK(034730), 삼성물산(028260)"
     },
     {
       "rank": 6,
       "theme": "Renewable Energy",
       "strength": "Strong",
-      "key_catalyst": "SK이터닉스 상한가, SK오션플랜트 +17.25%, HD현대에너지솔루션 +4.66%로 재생에너지 체인이 강했습니다.",
+      "key_catalyst": "SK이터닉스 상한가급 급등",
       "leader_candidate": "SK이터닉스(475150)"
     },
     {
       "rank": 7,
       "theme": "Wind Power",
       "strength": "Average",
-      "key_catalyst": "SK오션플랜트가 해상풍력·플랜트 기대를 반영하며 급등했습니다.",
+      "key_catalyst": "해상풍력 구조물 관련주 강세",
       "leader_candidate": "SK오션플랜트(100090)"
     },
     {
       "rank": 8,
       "theme": "High Dividend and Shareholder Return",
       "strength": "Average",
-      "key_catalyst": "저PBR·배당 성격의 KCC, SK디스커버리, 대한항공 등이 강세를 보였습니다.",
-      "leader_candidate": "KCC(002380)"
+      "key_catalyst": "저PBR·배당주 선별 강세",
+      "leader_candidate": "KCC(002380), SK디스커버리(006120)"
     },
     {
       "rank": 9,
-      "theme": "Insurance",
+      "theme": "Construction",
       "strength": "Average",
-      "key_catalyst": "미래에셋생명 +13.77%, 삼성생명 +3.23%로 보험주 일부가 강했습니다.",
-      "leader_candidate": "미래에셋생명(085620)"
+      "key_catalyst": "일부 건설주 반등과 대우건설 거래대금 유입",
+      "leader_candidate": "대우건설(047040), 금호건설(002990)"
     },
     {
       "rank": 10,
-      "theme": "Securities",
+      "theme": "Duty-free and Retail",
       "strength": "Average",
-      "key_catalyst": "키움증권 +7.48%, 미래에셋증권 +4.07%로 증권주가 지수 강세 수혜를 받았습니다.",
-      "leader_candidate": "키움증권(039490)"
+      "key_catalyst": "신세계·현대홈쇼핑 등 소비/유통주 반등",
+      "leader_candidate": "신세계(004170)"
     },
     {
       "rank": 11,
-      "theme": "Airlines",
+      "theme": "Travel and Leisure",
       "strength": "Average",
-      "key_catalyst": "국제유가 60달러선 기사와 함께 대한항공 +6.40%, 아시아나항공 +6.20%, 한진칼 +6.05%가 동반 상승했습니다.",
+      "key_catalyst": "항공주 동반 상승과 해외공항 사업 협력 보도",
       "leader_candidate": "대한항공(003490)"
     },
     {
       "rank": 12,
-      "theme": "Construction",
+      "theme": "Insurance",
       "strength": "Average",
-      "key_catalyst": "동부건설 +9.66%, 금호건설 +5.26%, 대우건설 +1.95% 등 건설주 일부가 강했습니다.",
-      "leader_candidate": "대우건설(047040)"
-    },
-    {
-      "rank": 13,
-      "theme": "Duty-free and Retail",
-      "strength": "Average",
-      "key_catalyst": "신세계 +8.18%, 현대홈쇼핑 +6.99% 등 소비·유통주가 반등했습니다.",
-      "leader_candidate": "신세계(004170)"
-    },
-    {
-      "rank": 14,
-      "theme": "Power Equipment",
-      "strength": "Weak",
-      "key_catalyst": "HD현대일렉트릭 +1.39%는 견조했지만 효성중공업 -2.18%, LS ELECTRIC -2.45%로 당일 테마 강도는 제한적입니다.",
-      "leader_candidate": "HD현대일렉트릭(267260)"
-    },
-    {
-      "rank": 15,
-      "theme": "Secondary Batteries",
-      "strength": "Weak",
-      "key_catalyst": "삼성SDI -1.64%, LG에너지솔루션 -3.69%, SK아이이테크놀로지 -7.64%로 당일 주도 테마는 아니었습니다.",
-      "leader_candidate": "확인 불가"
+      "key_catalyst": "미래에셋생명 급등 및 삼성생명 거래대금 유입",
+      "leader_candidate": "미래에셋생명(085620), 삼성생명(032830)"
     }
   ],
   "candidate_comparison": [
     {
-      "theme": "HBM",
+      "theme": "HBM/메모리",
       "stock": "SK하이닉스(000660)",
       "daily_return": "+13.06%",
       "trading_value": "약 195,075.6억원",
@@ -147,7 +122,7 @@
       "grade": "S Grade"
     },
     {
-      "theme": "Memory Semiconductors",
+      "theme": "메모리/AI 반도체",
       "stock": "삼성전자(005930)",
       "daily_return": "+5.29%",
       "trading_value": "약 129,492.5억원",
@@ -159,19 +134,7 @@
       "grade": "A Grade"
     },
     {
-      "theme": "AI Server Supply Chain",
-      "stock": "SK스퀘어(402340)",
-      "daily_return": "+5.56%",
-      "trading_value": "약 27,579.1억원",
-      "per": "16.13",
-      "pbr": "6.94",
-      "roe": "55.09",
-      "foreign_flow": "미공개(16:00 기준)",
-      "institutional_flow": "미공개(16:00 기준)",
-      "grade": "A Grade"
-    },
-    {
-      "theme": "Corporate Value-up",
+      "theme": "지주회사/기업가치 제고",
       "stock": "SK(034730)",
       "daily_return": "+20.51%",
       "trading_value": "약 7,177.9억원",
@@ -180,10 +143,22 @@
       "roe": "9.29",
       "foreign_flow": "미공개(16:00 기준)",
       "institutional_flow": "미공개(16:00 기준)",
+      "grade": "A Grade"
+    },
+    {
+      "theme": "지주회사/반도체 투자자산",
+      "stock": "SK스퀘어(402340)",
+      "daily_return": "+5.56%",
+      "trading_value": "약 27,579.1억원",
+      "per": "16.13",
+      "pbr": "6.94",
+      "roe": "55.09",
+      "foreign_flow": "미공개(16:00 기준)",
+      "institutional_flow": "미공개(16:00 기준)",
       "grade": "A- Grade"
     },
     {
-      "theme": "Renewable Energy",
+      "theme": "재생에너지",
       "stock": "SK이터닉스(475150)",
       "daily_return": "+29.93%",
       "trading_value": "약 3,701.4억원",
@@ -195,7 +170,7 @@
       "grade": "B+ Grade"
     },
     {
-      "theme": "Wind Power",
+      "theme": "해상풍력/조선 기자재",
       "stock": "SK오션플랜트(100090)",
       "daily_return": "+17.25%",
       "trading_value": "약 1,048.1억원",
@@ -207,7 +182,7 @@
       "grade": "B+ Grade"
     },
     {
-      "theme": "High Dividend and Shareholder Return",
+      "theme": "저PBR 가치주/실적 개선",
       "stock": "KCC(002380)",
       "daily_return": "+11.27%",
       "trading_value": "약 414.0억원",
@@ -219,31 +194,7 @@
       "grade": "A- Grade"
     },
     {
-      "theme": "Holding Companies",
-      "stock": "SK디스커버리(006120)",
-      "daily_return": "+12.61%",
-      "trading_value": "약 83.0억원",
-      "per": "3.92",
-      "pbr": "0.29",
-      "roe": "8.56",
-      "foreign_flow": "미공개(16:00 기준)",
-      "institutional_flow": "미공개(16:00 기준)",
-      "grade": "B Grade"
-    },
-    {
-      "theme": "Airlines",
-      "stock": "대한항공(003490)",
-      "daily_return": "+6.40%",
-      "trading_value": "약 1,391.4억원",
-      "per": "17.43",
-      "pbr": "0.99",
-      "roe": "5.78",
-      "foreign_flow": "미공개(16:00 기준)",
-      "institutional_flow": "미공개(16:00 기준)",
-      "grade": "B+ Grade"
-    },
-    {
-      "theme": "Corporate Value-up",
+      "theme": "기업가치 제고",
       "stock": "삼성물산(028260)",
       "daily_return": "+7.79%",
       "trading_value": "약 5,672.4억원",
@@ -255,7 +206,19 @@
       "grade": "B+ Grade"
     },
     {
-      "theme": "Insurance",
+      "theme": "항공/여행",
+      "stock": "대한항공(003490)",
+      "daily_return": "+6.40%",
+      "trading_value": "약 1,391.4억원",
+      "per": "17.43",
+      "pbr": "0.99",
+      "roe": "5.78",
+      "foreign_flow": "미공개(16:00 기준)",
+      "institutional_flow": "미공개(16:00 기준)",
+      "grade": "B Grade"
+    },
+    {
+      "theme": "보험",
       "stock": "미래에셋생명(085620)",
       "daily_return": "+13.77%",
       "trading_value": "약 315.7억원",
@@ -265,93 +228,81 @@
       "foreign_flow": "미공개(16:00 기준)",
       "institutional_flow": "미공개(16:00 기준)",
       "grade": "B Grade"
-    },
-    {
-      "theme": "Duty-free and Retail",
-      "stock": "신세계(004170)",
-      "daily_return": "+8.18%",
-      "trading_value": "약 616.3억원",
-      "per": "확인 불가",
-      "pbr": "확인 불가",
-      "roe": "확인 불가",
-      "foreign_flow": "미공개(16:00 기준)",
-      "institutional_flow": "미공개(16:00 기준)",
-      "grade": "B Grade"
     }
   ],
   "final_ranking": [
     {
       "rank": 1,
       "stock": "SK하이닉스(000660)",
-      "theme": "HBM/AI 메모리",
+      "theme": "HBM/메모리 반도체",
       "grade": "S Grade",
-      "key_reason": "수익률 +13.06%, 거래대금 약 19.5조원, ROE 61.16으로 가격·유동성·수익성 모두 압도적입니다. PBR 12.27은 부담이나 오늘의 실질 대장주 요건을 가장 강하게 충족했습니다."
+      "key_reason": "일간 +13.06%, 거래대금 약 19.5조원으로 압도적 수급 중심. PBR은 높지만 ROE 61.16이 고멀티플을 일정 부분 정당화."
     },
     {
       "rank": 2,
-      "stock": "SK스퀘어(402340)",
-      "theme": "AI 서버 공급망/SK 반도체 지분가치",
+      "stock": "삼성전자(005930)",
+      "theme": "메모리/AI 반도체",
       "grade": "A Grade",
-      "key_reason": "거래대금 약 2.8조원, PER 16.13, ROE 55.09로 SK하이닉스 강세의 지분가치 레버리지 후보입니다. 다만 PBR 6.94와 배당 확인 불가가 할인 요인입니다."
+      "key_reason": "초대형 반도체 동반 랠리의 핵심 축. 거래대금 약 12.9조원으로 시장 확산력은 강하나 상승률은 SK하이닉스보다 낮음."
     },
     {
       "rank": 3,
-      "stock": "삼성전자(005930)",
-      "theme": "메모리 반도체/AI 반도체",
+      "stock": "SK(034730)",
+      "theme": "지주회사/기업가치 제고",
       "grade": "A Grade",
-      "key_reason": "거래대금 약 12.9조원으로 시장 대표성이 높고 +5.29% 상승했습니다. PER 28.98, PBR 4.99는 싸다고 보긴 어렵지만 ROE 19.16과 대형주 수급 주도력을 고려하면 핵심 후발 대장입니다."
+      "key_reason": "+20.51% 급등과 7,177.9억원 거래대금. PBR 1.60, ROE 9.29로 지주사 재평가 관점에서 균형이 양호."
     },
     {
       "rank": 4,
-      "stock": "SK(034730)",
-      "theme": "지주회사/기업 밸류업",
+      "stock": "KCC(002380)",
+      "theme": "저PBR 가치주/실적 개선",
       "grade": "A- Grade",
-      "key_reason": "+20.51%, 거래대금 약 7,177.9억원으로 지주 테마의 강력한 가격 대장입니다. PBR 1.60은 과도하지 않지만 PER 23.85, ROE 9.29로 순수 저평가 매력은 중간입니다."
+      "key_reason": "PER 2.77, PBR 0.48, ROE 23.84 조합은 오늘 후보 중 저평가 매력이 가장 뚜렷. 다만 거래대금은 대형 리더 대비 작음."
     },
     {
       "rank": 5,
-      "stock": "KCC(002380)",
-      "theme": "실적 개선/저PBR 가치주",
+      "stock": "SK스퀘어(402340)",
+      "theme": "반도체 투자자산/지주회사",
       "grade": "A- Grade",
-      "key_reason": "PER 2.77, PBR 0.48, ROE 23.84로 오늘 후보 중 저평가·수익성 조합이 가장 좋습니다. 다만 거래대금 약 414억원으로 대장주 유동성은 반도체·SK그룹주 대비 약합니다."
+      "key_reason": "거래대금 2.76조원과 ROE 55.09가 강점. PBR 6.94로 저평가보다는 반도체 자산 재평가 성격."
     },
     {
       "rank": 6,
       "stock": "SK이터닉스(475150)",
       "theme": "재생에너지",
       "grade": "B+ Grade",
-      "key_reason": "상한가와 거래대금 약 3,701억원으로 당일 에너지 테마 가격 대장입니다. 그러나 PER 67.28, PBR 6.18, ROE 9.59로 저평가 관점은 약하고 과열 부담이 큽니다."
+      "key_reason": "+29.93%로 수익률 1위권이나 PER 67.28, PBR 6.18로 밸류 부담이 커 과열 점검 필요."
     },
     {
       "rank": 7,
-      "stock": "대한항공(003490)",
-      "theme": "항공/유가 하락 수혜",
+      "stock": "SK오션플랜트(100090)",
+      "theme": "해상풍력/조선 기자재",
       "grade": "B+ Grade",
-      "key_reason": "국제유가 60달러선 기사와 함께 +6.40%, 거래대금 약 1,391억원을 기록했습니다. PBR 0.99는 부담이 낮지만 ROE 5.78로 수익성 점수는 제한적입니다."
+      "key_reason": "+17.25%와 1,048.1억원 거래대금은 강하지만 ROE 5.63으로 수익성 근거는 약함."
     },
     {
       "rank": 8,
-      "stock": "SK오션플랜트(100090)",
-      "theme": "해상풍력/풍력",
+      "stock": "삼성물산(028260)",
+      "theme": "기업가치 제고",
       "grade": "B+ Grade",
-      "key_reason": "+17.25%로 강했으나 거래대금 약 1,048억원, ROE 5.63으로 질적 확신은 중간입니다. PER 23.58, PBR 1.26은 과도하진 않지만 흐름 데이터가 없어 확인 필요합니다."
+      "key_reason": "5,672.4억원 거래대금과 +7.79% 상승은 양호하나 PER 34.80, ROE 5.41로 저평가 설득력은 제한적."
     }
   ],
   "stock_analyses": [
     {
       "stock_name": "SK하이닉스(000660)",
       "theme_role": {
-        "theme": "HBM/AI 메모리",
-        "leader_or_follower": "진성 대장",
-        "reason": "KOSPI 전체 거래대금 1위, +13.06% 상승, AI 메모리 대표성까지 갖춰 오늘 시장의 핵심 대장주입니다.",
-        "catalyst": "연합뉴스 보도 기준 하이닉스 장중 15% 급등 및 삼성전자 동반 상승, AI 반도체·HBM 기대 재부각"
+        "theme": "HBM/메모리 반도체",
+        "leader_or_follower": "True Leader",
+        "reason": "오늘 KOSPI 전체 거래대금 1위이며 반도체 랠리의 가격·수급 중심.",
+        "catalyst": "마이크론 훈풍, AI 메모리 투자심리 회복, ADR 상장 관련 재평가 기대."
       },
       "price_and_trading_strength": {
         "daily_return": "+13.06%",
         "trading_value": "약 195,075.6억원",
         "volume_increase": "확인 불가",
-        "intraday_price_quality": "장중 고가·저가 정보 미제공으로 확인 불가. 다만 종가 기준 대형주 중 상승률과 거래대금이 모두 최상위입니다.",
-        "breakout_status": "확인 불가"
+        "intraday_price_quality": "장중 고가/종가 위치 확인 불가(16:00 기준)",
+        "breakout_status": "대형주 기준 강한 추세 돌파 성격이나 기술적 고점 여부는 확인 불가"
       },
       "valuation": {
         "per": "28.18",
@@ -371,81 +322,35 @@
         "foreign_ownership_trend": "확인 불가"
       },
       "positive_factors": [
-        "거래대금 약 19.5조원으로 시장 내 압도적 유동성",
-        "ROE 61.16으로 고PBR을 일부 정당화할 수 있는 수익성",
-        "HBM·AI 메모리 대표주로 테마 지속성이 가장 강함"
+        "거래대금 약 19.5조원으로 시장 내 압도적 주도주",
+        "ROE 61.16으로 고PBR 부담을 일부 상쇄",
+        "HBM/AI 서버 메모리라는 지속성 높은 테마",
+        "관련 뉴스 플로우가 당일 직접적으로 반도체 강세를 설명"
       ],
       "negative_factors": [
         "PBR 12.27로 저평가보다는 고성장 프리미엄 구간",
         "배당수익률 0.10%로 주주환원 매력은 낮음",
-        "외국인·기관 수급 데이터 미공개로 스마트머니 검증 불가"
+        "외국인·기관 순매수 데이터가 미공개라 수급 질 확인 불가"
       ],
       "final_view": {
         "grade": "S Grade",
-        "one_line_conclusion": "저평가주는 아니지만 오늘의 실질 대장주로는 가장 확실합니다."
-      }
-    },
-    {
-      "stock_name": "SK스퀘어(402340)",
-      "theme_role": {
-        "theme": "AI 서버 공급망/SK 반도체 지분가치",
-        "leader_or_follower": "2차 대장",
-        "reason": "SK하이닉스 급등의 지분가치 레버리지 성격이 크고, 거래대금 약 2.8조원으로 후속 대장 조건을 충족합니다.",
-        "catalyst": "SK하이닉스 초강세와 SK그룹주 동반 재평가"
-      },
-      "price_and_trading_strength": {
-        "daily_return": "+5.56%",
-        "trading_value": "약 27,579.1억원",
-        "volume_increase": "확인 불가",
-        "intraday_price_quality": "장중 가격 품질은 확인 불가. 거래대금 기준 대형주 상위권입니다.",
-        "breakout_status": "확인 불가"
-      },
-      "valuation": {
-        "per": "16.13",
-        "pbr": "6.94",
-        "roe": "55.09",
-        "dividend_yield": "확인 불가",
-        "forward_valuation": "확인 불가"
-      },
-      "investor_flow": {
-        "foreign_daily_flow": "미공개(16:00 기준)",
-        "foreign_5day_flow": "미공개(16:00 기준)",
-        "foreign_20day_flow": "미공개(16:00 기준)",
-        "institutional_daily_flow": "미공개(16:00 기준)",
-        "institutional_5day_flow": "미공개(16:00 기준)",
-        "institutional_20day_flow": "미공개(16:00 기준)",
-        "pension_fund_flow": "미공개(16:00 기준)",
-        "foreign_ownership_trend": "확인 불가"
-      },
-      "positive_factors": [
-        "PER 16.13 대비 ROE 55.09로 수익성 대비 PER 매력 존재",
-        "SK하이닉스와 연결되는 대표 지분가치 플레이",
-        "거래대금 약 2.8조원으로 기관성 자금 유입 여부를 추적할 가치가 큼"
-      ],
-      "negative_factors": [
-        "PBR 6.94는 지주회사 관점에서는 높아 할인 논리 약화",
-        "배당수익률 확인 불가",
-        "주가 논리가 SK하이닉스에 크게 종속될 수 있음"
-      ],
-      "final_view": {
-        "grade": "A Grade",
-        "one_line_conclusion": "SK하이닉스 직접 매수 부담을 피하는 2차 대장 후보이나 PBR 부담은 확인해야 합니다."
+        "one_line_conclusion": "오늘의 최강 실전 대장주는 SK하이닉스이나, 저평가형보다는 고ROE 성장 리더로 접근해야 함."
       }
     },
     {
       "stock_name": "삼성전자(005930)",
       "theme_role": {
-        "theme": "메모리 반도체/AI 반도체",
-        "leader_or_follower": "후발 대장",
-        "reason": "거래대금 약 12.9조원과 시총 대표성을 갖춘 대형 반도체 축입니다. 상승률은 SK하이닉스보다 낮지만 시장 영향력은 매우 큽니다.",
-        "catalyst": "하이닉스 급등과 함께 메모리 반도체 대형주 전반 재평가"
+        "theme": "메모리/AI 반도체",
+        "leader_or_follower": "Co-Leader",
+        "reason": "거래대금 2위이자 KOSPI 지수 상승 확산의 핵심 대형주.",
+        "catalyst": "반도체 업황 기대와 초대형주 동반 재평가."
       },
       "price_and_trading_strength": {
         "daily_return": "+5.29%",
         "trading_value": "약 129,492.5억원",
         "volume_increase": "확인 불가",
-        "intraday_price_quality": "장중 정보 미제공으로 확인 불가. 다만 종가 기준 대형주 강세가 확인됩니다.",
-        "breakout_status": "확인 불가"
+        "intraday_price_quality": "장중 고가/종가 위치 확인 불가(16:00 기준)",
+        "breakout_status": "대형 반도체 동반 강세 확인, 구체적 돌파 가격대는 확인 불가"
       },
       "valuation": {
         "per": "28.98",
@@ -465,34 +370,34 @@
         "foreign_ownership_trend": "확인 불가"
       },
       "positive_factors": [
-        "KOSPI 대표 반도체 대형주로 시장 수급 흡수력 우수",
-        "ROE 19.16으로 대형 제조업 기준 양호",
-        "거래대금 약 12.9조원으로 테마 확산의 핵심 축"
+        "거래대금 약 12.9조원으로 시장 대표성 매우 높음",
+        "ROE 19.16으로 대형주 기준 수익성 양호",
+        "SK하이닉스와 함께 반도체 랠리 확산을 확인시키는 종목"
       ],
       "negative_factors": [
-        "PER 28.98, PBR 4.99로 저평가 매력은 제한적",
-        "SK하이닉스 대비 당일 탄력은 낮음",
-        "외국인·기관 순매수 확인 불가"
+        "SK하이닉스 대비 상승 탄력은 약함",
+        "PER 28.98, PBR 4.99로 절대 저평가 구간은 아님",
+        "외국인·기관 수급 확인 불가"
       ],
       "final_view": {
         "grade": "A Grade",
-        "one_line_conclusion": "반도체 대형주 확산의 핵심 후발 대장이지만 저평가보다는 품질·유동성 점수로 봐야 합니다."
+        "one_line_conclusion": "시장 대표 반도체 공동 리더지만, 오늘의 순수 대장성은 SK하이닉스가 더 강함."
       }
     },
     {
       "stock_name": "SK(034730)",
       "theme_role": {
-        "theme": "지주회사/기업 밸류업",
-        "leader_or_follower": "가격 대장",
-        "reason": "+20.51%로 지주회사 테마 내 가장 강한 상승률과 충분한 거래대금을 기록했습니다.",
-        "catalyst": "SK그룹 반도체·지분가치 재평가와 그룹주 동반 강세"
+        "theme": "지주회사/기업가치 제고",
+        "leader_or_follower": "Theme Leader",
+        "reason": "SK그룹주 동반 강세의 핵심 지주사이며 +20.51% 급등.",
+        "catalyst": "반도체 자회사 가치 및 그룹 전반 재평가 기대."
       },
       "price_and_trading_strength": {
         "daily_return": "+20.51%",
         "trading_value": "약 7,177.9억원",
         "volume_increase": "확인 불가",
-        "intraday_price_quality": "장중 정보 미제공으로 확인 불가. 종가 기준 대형 지주주 중 상승률이 매우 강합니다.",
-        "breakout_status": "확인 불가"
+        "intraday_price_quality": "장중 고가/종가 위치 확인 불가(16:00 기준)",
+        "breakout_status": "지주사 대형주 기준 강한 재평가 돌파 성격"
       },
       "valuation": {
         "per": "23.85",
@@ -512,34 +417,36 @@
         "foreign_ownership_trend": "확인 불가"
       },
       "positive_factors": [
-        "대형 지주회사 중 +20%대 급등으로 가격 주도력 확인",
-        "거래대금 약 7,178억원으로 유동성 충분",
-        "PBR 1.60은 고성장주 대비 부담이 낮은 편"
+        "대형 지주사임에도 +20.51% 급등",
+        "거래대금 7,177.9억원으로 유동성 충분",
+        "PBR 1.60은 고성장주 대비 부담이 낮음",
+        "SK하이닉스 강세와 연결되는 지주사 재평가 논리"
       ],
       "negative_factors": [
-        "ROE 9.29로 고평가를 정당화할 만큼 높지는 않음",
-        "PER 23.85로 전통 지주회사 저평가 구간으로 보긴 어려움",
-        "배당수익률 0.93%로 고배당 매력은 제한적"
+        "PER 23.85는 전통적 지주사 기준 낮지 않음",
+        "ROE 9.29로 수익성은 중간 수준",
+        "급등 이후 단기 과열 가능성",
+        "수급 주체 데이터 미공개"
       ],
       "final_view": {
-        "grade": "A- Grade",
-        "one_line_conclusion": "당일 지주회사 가격 대장이지만, 밸류업 지속성은 수급 데이터 확인 후 판단해야 합니다."
+        "grade": "A Grade",
+        "one_line_conclusion": "오늘 지주회사·밸류업 테마의 실전 대장으로, 반도체 자산 재평가가 지속되는지가 핵심."
       }
     },
     {
       "stock_name": "KCC(002380)",
       "theme_role": {
         "theme": "저PBR 가치주/실적 개선",
-        "leader_or_follower": "저평가 대장 후보",
-        "reason": "PER 2.77, PBR 0.48, ROE 23.84 조합이 매우 강해 순수 저평가 관점에서는 가장 돋보입니다.",
-        "catalyst": "연합뉴스: 증권가 실적 개선 전망 속 11% 급등"
+        "leader_or_follower": "Undervalued Leader",
+        "reason": "PER 2.77, PBR 0.48, ROE 23.84 조합이 가장 뚜렷한 저평가 후보.",
+        "catalyst": "증권가 실적 개선 전망 속 11% 급등 보도."
       },
       "price_and_trading_strength": {
         "daily_return": "+11.27%",
         "trading_value": "약 414.0억원",
         "volume_increase": "확인 불가",
-        "intraday_price_quality": "장중 정보 미제공으로 확인 불가. 상승률은 강하지만 거래대금은 초대형 대장 대비 작습니다.",
-        "breakout_status": "확인 불가"
+        "intraday_price_quality": "장중 고가/종가 위치 확인 불가(16:00 기준)",
+        "breakout_status": "실적 개선 기대 기반 재평가 시도"
       },
       "valuation": {
         "per": "2.77",
@@ -559,18 +466,68 @@
         "foreign_ownership_trend": "확인 불가"
       },
       "positive_factors": [
-        "PER 2.77, PBR 0.48, ROE 23.84로 가치 대비 수익성 우수",
-        "배당수익률 2.81%로 방어적 매력 존재",
-        "실적 개선 전망이라는 명확한 뉴스 촉매 존재"
+        "PER 2.77, PBR 0.48로 절대 밸류에이션 매력 큼",
+        "ROE 23.84로 저PBR 가치함정 가능성이 낮아 보임",
+        "배당수익률 2.81%로 방어 매력 존재",
+        "당일 실적 개선 전망 보도가 직접 촉매"
       ],
       "negative_factors": [
-        "거래대금 약 414억원으로 시장 전체 대장급 유동성은 아님",
-        "일회성 이익 또는 사이클 피크 여부 확인 필요",
-        "외국인·기관 수급 확인 불가"
+        "거래대금 414.0억원으로 초대형 대장주 대비 수급 파괴력은 제한",
+        "일회성 실적 또는 사이클 피크 여부는 추가 확인 필요",
+        "외국인·기관 매수 확인 불가"
       ],
       "final_view": {
         "grade": "A- Grade",
-        "one_line_conclusion": "오늘의 최상위 저평가 후보이나, 대장주 점수는 유동성 때문에 반도체·SK그룹주보다 낮습니다."
+        "one_line_conclusion": "오늘의 베스트 저평가 리더 후보이나, 거래대금과 실적 지속성 확인이 필요."
+      }
+    },
+    {
+      "stock_name": "SK이터닉스(475150)",
+      "theme_role": {
+        "theme": "재생에너지",
+        "leader_or_follower": "Momentum Leader",
+        "reason": "수익률 +29.93%로 당일 최상위권이며 재생에너지 테마의 가격 리더.",
+        "catalyst": "SK그룹주 동반 강세와 재생에너지 성장 기대."
+      },
+      "price_and_trading_strength": {
+        "daily_return": "+29.93%",
+        "trading_value": "약 3,701.4억원",
+        "volume_increase": "확인 불가",
+        "intraday_price_quality": "상한가급 강세이나 장중 고가/종가 위치는 확인 불가(16:00 기준)",
+        "breakout_status": "단기 급등 돌파 성격, 과열 확인 필요"
+      },
+      "valuation": {
+        "per": "67.28",
+        "pbr": "6.18",
+        "roe": "9.59",
+        "dividend_yield": "확인 불가",
+        "forward_valuation": "확인 불가"
+      },
+      "investor_flow": {
+        "foreign_daily_flow": "미공개(16:00 기준)",
+        "foreign_5day_flow": "미공개(16:00 기준)",
+        "foreign_20day_flow": "미공개(16:00 기준)",
+        "institutional_daily_flow": "미공개(16:00 기준)",
+        "institutional_5day_flow": "미공개(16:00 기준)",
+        "institutional_20day_flow": "미공개(16:00 기준)",
+        "pension_fund_flow": "미공개(16:00 기준)",
+        "foreign_ownership_trend": "확인 불가"
+      },
+      "positive_factors": [
+        "일간 +29.93%로 가격 모멘텀 최상위",
+        "거래대금 3,701.4억원으로 단순 저유동성 급등은 아님",
+        "SK그룹 강세 확산의 직접 수혜 후보",
+        "재생에너지라는 지속 테마에 매핑 가능"
+      ],
+      "negative_factors": [
+        "PER 67.28, PBR 6.18로 밸류 부담 큼",
+        "ROE 9.59는 고PBR을 충분히 정당화하기엔 부족",
+        "배당수익률과 forward PER 확인 불가",
+        "단기 급등 후 변동성 확대 가능성"
+      ],
+      "final_view": {
+        "grade": "B+ Grade",
+        "one_line_conclusion": "가격 모멘텀은 강하지만 저평가 리더라기보다 과열 점검이 필요한 재생에너지 모멘텀주."
       }
     }
   ],
@@ -579,75 +536,70 @@
       "SK하이닉스(000660)"
     ],
     "A Grade": [
-      "SK스퀘어(402340)",
-      "삼성전자(005930)"
+      "삼성전자(005930)",
+      "SK(034730)"
     ],
     "A- Grade": [
-      "SK(034730)",
-      "KCC(002380)"
+      "KCC(002380)",
+      "SK스퀘어(402340)"
     ],
     "B+ Grade": [
       "SK이터닉스(475150)",
       "SK오션플랜트(100090)",
-      "대한항공(003490)",
       "삼성물산(028260)"
     ],
     "B Grade": [
-      "SK디스커버리(006120)",
+      "대한항공(003490)",
       "미래에셋생명(085620)",
-      "신세계(004170)",
-      "키움증권(039490)"
+      "SK네트웍스(001740)"
     ],
     "B- Grade": [
-      "삼성전기(009150)",
-      "한미반도체(042700)",
-      "HD현대일렉트릭(267260)"
+      "삼성전자우(005935)",
+      "SK디스커버리(006120)"
     ],
     "Watchlist": [
-      "SK이터닉스(475150): 상한가이나 PER 67.28·PBR 6.18로 과열 확인 필요",
-      "KCC(002380): 저평가 매력은 강하나 거래대금·실적 지속성 확인 필요",
-      "대한항공(003490): 유가 수혜 지속 여부 확인 필요",
-      "SK네트웍스(001740): +13.33%이나 ROE 4.75로 수익성 보강 필요",
-      "삼성전자우(005935): +10.07%이나 보통주 대비 대장성은 낮음"
+      "두산에너빌리티(034020)",
+      "LG에너지솔루션(373220)",
+      "삼성SDI(006400)",
+      "대우건설(047040)"
     ]
   },
   "key_takeaways": {
-    "strongest_practical_theme_today": "HBM/AI 메모리: SK하이닉스와 삼성전자가 KOSPI 급등을 주도했습니다.",
-    "best_true_leader": "SK하이닉스(000660): 거래대금, 상승률, 테마 대표성 기준 최상위입니다.",
-    "best_undervalued_leader": "KCC(002380): PER 2.77, PBR 0.48, ROE 23.84로 저평가·수익성 조합이 가장 우수합니다.",
-    "best_foreign_flow_stock": "확인 불가(16:00 기준): 외국인 순매수 데이터가 제공되지 않았습니다.",
-    "best_institutional_flow_stock": "확인 불가(16:00 기준): 기관 순매수 데이터가 제공되지 않았습니다.",
-    "most_overheated_stock": "SK이터닉스(475150): +29.93% 상한가, PER 67.28, PBR 6.18로 단기 과열 부담이 큽니다.",
+    "strongest_practical_theme_today": "HBM/메모리 반도체: SK하이닉스와 삼성전자에 거래대금이 압도적으로 집중.",
+    "best_true_leader": "SK하이닉스(000660)",
+    "best_undervalued_leader": "KCC(002380)",
+    "best_foreign_flow_stock": "확인 불가(16:00 기준)",
+    "best_institutional_flow_stock": "확인 불가(16:00 기준)",
+    "most_overheated_stock": "SK이터닉스(475150): +29.93%, PER 67.28, PBR 6.18로 단기 과열 부담.",
     "stocks_to_monitor_tomorrow": [
-      "SK하이닉스(000660): HBM 대장 지속 여부와 외국인 수급 확인",
-      "SK스퀘어(402340): SK하이닉스 연동 지분가치 재평가 지속 여부",
-      "삼성전자(005930): 반도체 확산장 지속 여부",
-      "SK(034730): 지주회사 밸류업 후속 매수 확인",
-      "KCC(002380): 실적 개선 전망과 저평가 리레이팅 지속성",
-      "SK이터닉스(475150): 상한가 이후 거래대금 유지 및 과열 해소 여부",
-      "대한항공(003490): 유가 하락 수혜 지속 여부"
+      "SK하이닉스(000660): 거래대금 지속성과 외국인 순매수 확인",
+      "삼성전자(005930): 반도체 랠리 확산 여부",
+      "SK(034730): 지주사 재평가 지속 여부",
+      "KCC(002380): 저평가 재평가가 2일차로 이어지는지",
+      "SK이터닉스(475150): 급등 후 눌림/거래대금 유지 여부",
+      "SK오션플랜트(100090): 해상풍력 테마 확산 여부"
     ]
   },
   "data_sources_and_timestamp": [
     {
       "source": "Python-collected market snapshot",
-      "timestamp": "2026-06-25 16:45:11 KST",
-      "notes": "KOSPI/KOSDAQ 지수, KOSPI 상위 상승률·거래대금·하락률, 후보 밸류에이션 및 뉴스 헤드라인을 기본 사실 소스로 사용했습니다."
+      "timestamp": "2026-06-25 16:59:01 KST",
+      "notes": "KOSPI/KOSDAQ 지수, KOSPI 상승률/거래대금/하락률 상위, 후보 밸류에이션, 뉴스 헤드라인을 포함."
     },
     {
       "source": "Naver Finance item/main.naver",
-      "timestamp": "2026-06-25 16:45:11 KST",
-      "notes": "PER, PBR, ROE, 배당수익률 일부를 수집했습니다. 일부 종목은 dividend_yield, forward_per, per 등이 확인 불가였습니다."
+      "timestamp": "2026-06-25 16:59:01 KST",
+      "notes": "PER/PBR/ROE/배당수익률 일부 수집. 일부 종목은 dividend_yield, forward_per, per 항목 누락으로 확인 불가."
     },
     {
       "source": "연합뉴스 경제 헤드라인",
-      "timestamp": "2026-06-25 16:45:11 KST",
-      "notes": "하이닉스·삼성전자 급등, 코스피 급등 마감, 항공주 유가 수혜, KCC 실적 개선 전망, 환율·금리 관련 기사 헤드라인을 촉매 판단에 사용했습니다."
+      "timestamp": "2026-06-25 16:59:01 KST",
+      "notes": "마이크론 훈풍 반도체 강세, SK하이닉스 ADR 상장 영향, KCC 실적 개선 전망, 환율 1,540원대, 국고채 금리 하락 등."
     },
     {
       "source": "daily_kospi_theme_leader_agent.md",
-      "timestamp": "2026-06-25 16:45:27 KST",
-      "notes": "출력 철학, KOSPI-only 원칙, 테마 풀, 밸류에이션·등급 규칙을 적용했습니다."
+      "timestamp": "2026-06-25 16:59:17 KST 실행 기준",
+      "notes": "테마 매핑, 저평가/수익성/수급 평가 철학, 등급 규칙, KOSPI-only 랭킹 원칙 적용."
     }
   ],
   "disclaimer": "본 리포트는 시장 모니터링/리서치 목적이며 투자 권유가 아닙니다. 실제 투자 판단 전 수치와 공시를 반드시 재확인하세요."
