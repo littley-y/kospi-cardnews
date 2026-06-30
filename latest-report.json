@@ -1,546 +1,408 @@
 {
-  "analysis_date": "2026-06-29",
+  "analysis_date": "2026-06-30",
   "analysis_type": "After-market",
-  "report_title": "6월 29일 저평가 대장주 리포트",
+  "report_title": "6월 30일 저평가 대장주 리포트",
   "market_summary": {
-    "kospi_performance": "KOSPI 8,322.92pt, -1.05% 마감. 대형 반도체 일부 약세에도 2차전지·건설·신재생·바이오·화장품 쪽 강세가 뚜렷했습니다.",
-    "market_trading_value": "전체 KOSPI 거래대금은 확인 불가(16:00 기준). 개별 기준 SK하이닉스 10.2조원, 삼성전자 8.5조원, SK이터닉스 4,736억원, LG에너지솔루션 2,371억원 등 대형주 거래 집중.",
+    "kospi_performance": "KOSPI 8,625.22pt, +2.75%로 사흘 만에 강한 반등. KOSDAQ은 916.18pt, -0.48%로 차별화.",
+    "market_trading_value": "거래대금은 SK하이닉스 13.47조원, 삼성전자 9.67조원, 삼성전기 2.86조원 중심으로 대형 반도체·전자부품에 집중. 전체 KOSPI 총거래대금은 확인 불가(16:00 기준).",
     "strongest_sectors": [
-      "건설",
-      "2차전지·배터리 셀",
-      "신재생에너지·ESS",
-      "바이오·제약",
-      "화장품·여행레저",
-      "전력기기·인프라"
+      "반도체·AI 인프라",
+      "PCB·IC기판",
+      "MLCC·전자부품",
+      "전력기기·전선",
+      "호남 반도체 정책/투자 수혜",
+      "건설·지역개발",
+      "지주·기업가치 제고"
     ],
-    "market_tone": "지수는 약세였지만 테마 확산은 강했습니다. 외국인 대규모 매도와 환율 급등으로 매크로 부담은 컸고, 실질 수급 데이터가 미공개라 확신도는 일부 낮춰야 합니다.",
+    "market_tone": "지수는 강한 반등이지만 상승 주도권은 반도체 대형주와 일부 정책 테마에 집중. 2차전지 대형주는 약세로 업종별 온도차가 컸음.",
     "key_macro_or_policy_drivers": [
-      "원/달러 환율 1,545.2원 마감, 금융위기 후 최고권으로 외국인 수급 부담 확대",
-      "외국인 7.7조원 매도 보도",
-      "반도체 생산 벨트 및 SK하이닉스 용인·청주 투자 조기 집행 발언",
-      "기업 전폭지원·메가프로젝트 정책 기대",
-      "롯데손해보험 피인수설 등 금융 이벤트성 재료"
+      "삼성전자 급반등 및 SK하이닉스 상승으로 반도체 대형주 수급 집중",
+      "'호남 반도체' 및 서남권 첨단산업 육성 관련 정책 기대",
+      "전남·광주권 800조 반도체 투자 지원 발언 관련 테마 확산",
+      "원/달러 환율 1,549.4원 마감 및 외국인 순매도 보도는 매크로 부담",
+      "중소형 로봇주 상승 보도는 KOSDAQ 중심 맥락으로 KOSPI 랭킹에서는 제한 반영"
     ]
   },
   "leading_practical_themes": [
     {
       "rank": 1,
-      "theme": "Renewable Energy / ESS",
+      "theme": "Memory Semiconductors",
       "strength": "Strong",
-      "key_catalyst": "SK이터닉스가 +17.59%, 거래대금 4,736억원으로 테마 내 압도적 유동성을 보이며 신재생·ESS 모멘텀 주도",
-      "leader_candidate": "SK이터닉스(475150)"
+      "key_catalyst": "삼성전자 급반등 및 SK하이닉스 대규모 거래대금 집중",
+      "leader_candidate": "삼성전자(005930), SK하이닉스(000660)"
     },
     {
       "rank": 2,
-      "theme": "Secondary Batteries / Battery Cells",
+      "theme": "PCB and IC Substrate",
       "strength": "Strong",
-      "key_catalyst": "LG에너지솔루션 +16.59%, 삼성SDI +9.89%, 포스코퓨처엠 +14.38%, 에코프로머티 +13.68% 동반 강세",
-      "leader_candidate": "LG에너지솔루션(373220)"
+      "key_catalyst": "대덕전자 +16.28%, 코리아써키트 +9.02%, 이수페타시스 +5.20%로 기판주 동반 강세",
+      "leader_candidate": "대덕전자(353200)"
     },
     {
       "rank": 3,
-      "theme": "Construction",
+      "theme": "MLCC",
       "strength": "Strong",
-      "key_catalyst": "금호건설 상한가권, 계룡건설·자이에스앤디·대우건설 동반 급등으로 건설주 폭넓은 순환매",
-      "leader_candidate": "금호건설(002990)"
+      "key_catalyst": "삼성전기 거래대금 2.86조원, +7.16%; 삼화콘덴서 +13.53% 동반 강세",
+      "leader_candidate": "삼성전기(009150)"
     },
     {
       "rank": 4,
-      "theme": "Plant Engineering / Industrial Infrastructure",
+      "theme": "Semiconductor Equipment",
       "strength": "Strong",
-      "key_catalyst": "삼성E&A +13.63%, 거래대금 1,160.7억원으로 대형 인프라·플랜트 대표주 강세",
-      "leader_candidate": "삼성E&A(028050)"
+      "key_catalyst": "케이씨텍 +26.62%, 케이씨 +15.72%, 한미반도체 대형 거래 지속",
+      "leader_candidate": "케이씨텍(281820)"
     },
     {
       "rank": 5,
-      "theme": "Pharmaceuticals / Biotechnology",
-      "strength": "Strong",
-      "key_catalyst": "한올바이오파마 +17.82%, 한미약품 +16.39%, 셀트리온 +8.26% 등 대형 바이오·제약 동반 강세",
-      "leader_candidate": "한올바이오파마(009420)"
+      "theme": "Semiconductor Materials",
+      "strength": "Average",
+      "key_catalyst": "후성 +7.22% 및 반도체 소재·부품주 강세 확산",
+      "leader_candidate": "후성(093370)"
     },
     {
       "rank": 6,
-      "theme": "Cosmetics",
+      "theme": "Electric Wires and Cables",
       "strength": "Strong",
-      "key_catalyst": "아모레퍼시픽 +15.36%, 토니모리 +13.72%로 소비재 내 화장품 반등 강도 우위",
-      "leader_candidate": "아모레퍼시픽(090430)"
+      "key_catalyst": "가온전선 +22.51%, 대원전선 +5.20%로 전선주 강세",
+      "leader_candidate": "가온전선(000500)"
     },
     {
       "rank": 7,
-      "theme": "Power Equipment / Grid Infrastructure",
-      "strength": "Average",
-      "key_catalyst": "LS ELECTRIC +9.36%, HD현대일렉트릭 +4.53%, 효성중공업 +4.74% 등 전력기기 대형주 견조",
+      "theme": "Power Equipment",
+      "strength": "Strong",
+      "key_catalyst": "LS ELECTRIC +6.25%, 효성중공업 +5.01%, 산일전기 +8.16%로 전력 인프라 강세",
       "leader_candidate": "LS ELECTRIC(010120)"
     },
     {
       "rank": 8,
-      "theme": "Nuclear Power / SMR",
+      "theme": "Transformers",
       "strength": "Average",
-      "key_catalyst": "두산에너빌리티 +6.91%, 거래대금 2,705.3억원으로 에너지 인프라 대표주 강세",
-      "leader_candidate": "두산에너빌리티(034020)"
+      "key_catalyst": "전력망·변압기 고성장 기대 속 효성중공업, 산일전기 상승",
+      "leader_candidate": "효성중공업(298040)"
     },
     {
       "rank": 9,
-      "theme": "Solar Power",
-      "strength": "Average",
-      "key_catalyst": "한화솔루션 +13.38%, OCI +16.01%로 태양광·소재 계열 강세",
-      "leader_candidate": "한화솔루션(009830)"
+      "theme": "Construction",
+      "strength": "Strong",
+      "key_catalyst": "금호건설 상한가와 자이에스앤디 강세, 지역개발·정책 기대 반영",
+      "leader_candidate": "금호건설(002990)"
     },
     {
       "rank": 10,
-      "theme": "Wind Power",
-      "strength": "Average",
-      "key_catalyst": "씨에스윈드 +14.16%로 재생에너지 내 풍력 관련주 강세",
-      "leader_candidate": "씨에스윈드(112610)"
+      "theme": "Holding Companies",
+      "strength": "Strong",
+      "key_catalyst": "SK +6.24%, SK스퀘어 +3.48% 및 대형 거래대금 유입",
+      "leader_candidate": "SK(034730)"
     },
     {
       "rank": 11,
-      "theme": "Automobiles / Auto Parts",
+      "theme": "Corporate Value-up",
       "strength": "Average",
-      "key_catalyst": "현대차 +2.81%, 현대모비스 +2.67%로 지수 약세 속 대형 자동차주 방어적 강세",
-      "leader_candidate": "현대차(005380)"
+      "key_catalyst": "KB금융 +3.45%, SK·지주주 강세로 가치업 성격 지속",
+      "leader_candidate": "KB금융(105560)"
     },
     {
       "rank": 12,
-      "theme": "Travel and Leisure",
+      "theme": "Gaming",
       "strength": "Average",
-      "key_catalyst": "파라다이스 +15.07%로 레저·카지노 쪽 단기 강세 확인",
-      "leader_candidate": "파라다이스(034230)"
+      "key_catalyst": "크래프톤 +5.59%로 대형 게임주 반등",
+      "leader_candidate": "크래프톤(259960)"
     },
     {
       "rank": 13,
-      "theme": "Cement",
+      "theme": "Solar Power",
       "strength": "Average",
-      "key_catalyst": "아세아시멘트 +15.47%로 건설 순환매와 연동된 시멘트 테마 강세",
-      "leader_candidate": "아세아시멘트(183190)"
+      "key_catalyst": "HD현대에너지솔루션 +5.31%, SK이터닉스 +3.40%로 재생에너지 일부 강세",
+      "leader_candidate": "HD현대에너지솔루션(322000)"
     },
     {
       "rank": 14,
-      "theme": "Insurance",
+      "theme": "Construction Machinery",
       "strength": "Average",
-      "key_catalyst": "롯데손해보험 피인수설 보도에 상한가권 마감. 다만 이벤트성 성격이 강함",
-      "leader_candidate": "롯데손해보험(000400)"
+      "key_catalyst": "HD건설기계 +4.70%로 기계·인프라 투자 기대 반영",
+      "leader_candidate": "HD건설기계(267270)"
     },
     {
       "rank": 15,
-      "theme": "AI Server Supply Chain / HBM",
+      "theme": "Food and Beverage",
       "strength": "Weak",
-      "key_catalyst": "반도체 투자 뉴스는 있었지만 SK하이닉스 -2.96%, 삼성전자 -4.57%로 당일 주가 리더십은 약함",
-      "leader_candidate": "한미반도체(042700)"
+      "key_catalyst": "사조산업 +11.49%, 사조씨푸드 +8.26%이나 거래대금이 작아 리더십 제한",
+      "leader_candidate": "사조산업(007160)"
     }
   ],
   "candidate_comparison": [
     {
-      "theme": "Renewable Energy / ESS",
-      "stock": "SK이터닉스(475150)",
-      "daily_return": "+17.59%",
-      "trading_value": "4,736.0억원",
-      "per": "68.59",
-      "pbr": "6.30",
-      "roe": "9.59",
-      "foreign_flow": "미공개(16:00 기준)",
-      "institutional_flow": "미공개(16:00 기준)",
-      "grade": "A"
-    },
-    {
-      "theme": "Secondary Batteries / Battery Cells",
-      "stock": "LG에너지솔루션(373220)",
-      "daily_return": "+16.59%",
-      "trading_value": "2,370.6억원",
-      "per": "확인 불가",
-      "pbr": "4.23",
-      "roe": "-7.40",
-      "foreign_flow": "미공개(16:00 기준)",
-      "institutional_flow": "미공개(16:00 기준)",
-      "grade": "A-"
-    },
-    {
-      "theme": "Plant Engineering / Industrial Infrastructure",
-      "stock": "삼성E&A(028050)",
-      "daily_return": "+13.63%",
-      "trading_value": "1,160.7억원",
-      "per": "15.00",
-      "pbr": "1.94",
-      "roe": "13.69",
-      "foreign_flow": "미공개(16:00 기준)",
-      "institutional_flow": "미공개(16:00 기준)",
-      "grade": "A"
-    },
-    {
       "theme": "Construction",
       "stock": "금호건설(002990)",
-      "daily_return": "+29.86%",
-      "trading_value": "107.5억원",
-      "per": "4.36",
-      "pbr": "1.31",
+      "daily_return": "+29.97%",
+      "trading_value": "약 3,118.4억원",
+      "per": "5.67",
+      "pbr": "1.70",
       "roe": "31.92",
       "foreign_flow": "미공개(16:00 기준)",
       "institutional_flow": "미공개(16:00 기준)",
-      "grade": "A-"
+      "grade": "A Grade"
     },
     {
-      "theme": "Construction",
-      "stock": "계룡건설(013580)",
-      "daily_return": "+22.78%",
-      "trading_value": "175.9억원",
-      "per": "1.82",
-      "pbr": "0.21",
-      "roe": "11.95",
+      "theme": "PCB and IC Substrate",
+      "stock": "대덕전자(353200)",
+      "daily_return": "+16.28%",
+      "trading_value": "약 2,344.0억원",
+      "per": "80.08",
+      "pbr": "8.61",
+      "roe": "11.18",
       "foreign_flow": "미공개(16:00 기준)",
       "institutional_flow": "미공개(16:00 기준)",
-      "grade": "A-"
+      "grade": "A- Grade"
     },
     {
-      "theme": "Secondary Batteries",
-      "stock": "삼성SDI(006400)",
-      "daily_return": "+9.89%",
-      "trading_value": "2,862.6억원",
-      "per": "확인 불가",
-      "pbr": "1.78",
-      "roe": "-2.17",
+      "theme": "MLCC",
+      "stock": "삼성전기(009150)",
+      "daily_return": "+7.16%",
+      "trading_value": "약 28,568.1억원",
+      "per": "206.29",
+      "pbr": "16.81",
+      "roe": "8.82",
       "foreign_flow": "미공개(16:00 기준)",
       "institutional_flow": "미공개(16:00 기준)",
-      "grade": "B+"
+      "grade": "A- Grade"
     },
     {
-      "theme": "Construction",
-      "stock": "대우건설(047040)",
-      "daily_return": "+9.07%",
-      "trading_value": "1,393.1억원",
-      "per": "확인 불가",
-      "pbr": "2.27",
-      "roe": "-19.50",
+      "theme": "Semiconductor Equipment",
+      "stock": "케이씨텍(281820)",
+      "daily_return": "+26.62%",
+      "trading_value": "약 817.1억원",
+      "per": "30.86",
+      "pbr": "4.11",
+      "roe": "10.55",
       "foreign_flow": "미공개(16:00 기준)",
       "institutional_flow": "미공개(16:00 기준)",
-      "grade": "B+"
+      "grade": "B+ Grade"
     },
     {
-      "theme": "Pharmaceuticals / Biotechnology",
-      "stock": "한올바이오파마(009420)",
-      "daily_return": "+17.82%",
-      "trading_value": "996.6억원",
-      "per": "확인 불가",
-      "pbr": "확인 불가",
-      "roe": "확인 불가",
+      "theme": "Electric Wires and Cables",
+      "stock": "가온전선(000500)",
+      "daily_return": "+22.51%",
+      "trading_value": "약 848.8억원",
+      "per": "69.31",
+      "pbr": "7.71",
+      "roe": "11.96",
       "foreign_flow": "미공개(16:00 기준)",
       "institutional_flow": "미공개(16:00 기준)",
-      "grade": "B+"
-    },
-    {
-      "theme": "Cosmetics",
-      "stock": "아모레퍼시픽(090430)",
-      "daily_return": "+15.36%",
-      "trading_value": "881.9억원",
-      "per": "확인 불가",
-      "pbr": "확인 불가",
-      "roe": "확인 불가",
-      "foreign_flow": "미공개(16:00 기준)",
-      "institutional_flow": "미공개(16:00 기준)",
-      "grade": "B+"
+      "grade": "B+ Grade"
     },
     {
       "theme": "Power Equipment",
       "stock": "LS ELECTRIC(010120)",
-      "daily_return": "+9.36%",
-      "trading_value": "1,871.2억원",
-      "per": "99.64",
-      "pbr": "16.11",
+      "daily_return": "+6.25%",
+      "trading_value": "약 2,507.1억원",
+      "per": "105.87",
+      "pbr": "17.11",
       "roe": "17.29",
       "foreign_flow": "미공개(16:00 기준)",
       "institutional_flow": "미공개(16:00 기준)",
-      "grade": "B"
+      "grade": "B+ Grade"
     },
     {
-      "theme": "Nuclear Power / Energy Infrastructure",
-      "stock": "두산에너빌리티(034020)",
-      "daily_return": "+6.91%",
-      "trading_value": "2,705.3억원",
-      "per": "365.15",
-      "pbr": "7.02",
-      "roe": "1.98",
+      "theme": "Holding Companies",
+      "stock": "SK(034730)",
+      "daily_return": "+6.24%",
+      "trading_value": "약 3,054.6억원",
+      "per": "23.18",
+      "pbr": "1.55",
+      "roe": "9.29",
       "foreign_flow": "미공개(16:00 기준)",
       "institutional_flow": "미공개(16:00 기준)",
-      "grade": "B"
+      "grade": "A- Grade"
     },
     {
-      "theme": "Insurance",
-      "stock": "롯데손해보험(000400)",
-      "daily_return": "+29.84%",
-      "trading_value": "56.8억원",
-      "per": "34.54",
-      "pbr": "0.98",
-      "roe": "3.35",
+      "theme": "Memory Semiconductors",
+      "stock": "삼성전자(005930)",
+      "daily_return": "+3.41%",
+      "trading_value": "약 96,748.9억원",
+      "per": "27.00",
+      "pbr": "4.64",
+      "roe": "19.16",
       "foreign_flow": "미공개(16:00 기준)",
       "institutional_flow": "미공개(16:00 기준)",
-      "grade": "Watchlist"
+      "grade": "A Grade"
+    },
+    {
+      "theme": "Memory Semiconductors",
+      "stock": "SK하이닉스(000660)",
+      "daily_return": "+0.84%",
+      "trading_value": "약 134,715.5억원",
+      "per": "25.60",
+      "pbr": "11.14",
+      "roe": "61.16",
+      "foreign_flow": "미공개(16:00 기준)",
+      "institutional_flow": "미공개(16:00 기준)",
+      "grade": "A- Grade"
+    },
+    {
+      "theme": "MLCC",
+      "stock": "삼화콘덴서(001820)",
+      "daily_return": "+13.53%",
+      "trading_value": "약 1,932.1억원",
+      "per": "114.74",
+      "pbr": "5.62",
+      "roe": "5.01",
+      "foreign_flow": "미공개(16:00 기준)",
+      "institutional_flow": "미공개(16:00 기준)",
+      "grade": "B Grade"
+    },
+    {
+      "theme": "PCB and IC Substrate",
+      "stock": "이수페타시스(007660)",
+      "daily_return": "+5.20%",
+      "trading_value": "약 1,789.9억원",
+      "per": "48.65",
+      "pbr": "10.64",
+      "roe": "29.95",
+      "foreign_flow": "미공개(16:00 기준)",
+      "institutional_flow": "미공개(16:00 기준)",
+      "grade": "B+ Grade"
+    },
+    {
+      "theme": "Transformers",
+      "stock": "효성중공업(298040)",
+      "daily_return": "+5.01%",
+      "trading_value": "약 1,628.6억원",
+      "per": "63.48",
+      "pbr": "13.36",
+      "roe": "23.16",
+      "foreign_flow": "미공개(16:00 기준)",
+      "institutional_flow": "미공개(16:00 기준)",
+      "grade": "B+ Grade"
     }
   ],
   "final_ranking": [
     {
       "rank": 1,
-      "stock": "삼성E&A(028050)",
-      "theme": "Plant Engineering / Industrial Infrastructure",
-      "grade": "A",
-      "key_reason": "거래대금 1,160.7억원과 +13.63% 상승, PER 15.00·ROE 13.69 조합이 가장 균형적입니다."
+      "stock": "금호건설(002990)",
+      "theme": "Construction",
+      "grade": "A Grade",
+      "key_reason": "상한가, 거래대금 3,118억원, PER 5.67·ROE 31.92 조합이 오늘 후보 중 저평가 매력이 가장 뚜렷. 다만 건설 테마 지속성과 수급 데이터 부재는 감점."
     },
     {
       "rank": 2,
-      "stock": "SK이터닉스(475150)",
-      "theme": "Renewable Energy / ESS",
-      "grade": "A",
-      "key_reason": "당일 테마 유동성 1위급인 4,736억원 거래대금과 +17.59% 상승으로 실전 대장성은 최상위입니다."
+      "stock": "삼성전자(005930)",
+      "theme": "Memory Semiconductors",
+      "grade": "A Grade",
+      "key_reason": "KOSPI 반등의 핵심 대형주. 거래대금 9.67조원, +3.41%, ROE 19.16으로 시장 대표 리더십은 강하나 저평가보다는 대형 수급 리더 성격."
     },
     {
       "rank": 3,
-      "stock": "계룡건설(013580)",
-      "theme": "Construction",
-      "grade": "A-",
-      "key_reason": "PER 1.82, PBR 0.21, ROE 11.95로 저평가 매력은 가장 강하지만 거래대금 규모는 대형 리더 대비 작습니다."
+      "stock": "대덕전자(353200)",
+      "theme": "PCB and IC Substrate",
+      "grade": "A- Grade",
+      "key_reason": "PCB·IC기판 테마 내 상승률과 거래대금이 모두 강함. PER 80.08·PBR 8.61로 밸류에이션 부담은 큼."
     },
     {
       "rank": 4,
-      "stock": "금호건설(002990)",
-      "theme": "Construction",
-      "grade": "A-",
-      "key_reason": "상한가권 수익률과 PER 4.36·ROE 31.92가 돋보이나 거래대금 107.5억원으로 유동성 확신은 제한됩니다."
+      "stock": "SK(034730)",
+      "theme": "Holding Companies",
+      "grade": "A- Grade",
+      "key_reason": "거래대금 3,054억원, +6.24%, PBR 1.55로 대형 지주주 중 상대적으로 밸류 부담이 낮음. ROE 9.29는 보통."
     },
     {
       "rank": 5,
-      "stock": "LG에너지솔루션(373220)",
-      "theme": "Secondary Batteries / Battery Cells",
-      "grade": "A-",
-      "key_reason": "2차전지 대표주가 +16.59%, 2,370.6억원 거래대금을 기록했지만 ROE -7.40과 PER 확인 불가가 감점 요인입니다."
+      "stock": "케이씨텍(281820)",
+      "theme": "Semiconductor Equipment",
+      "grade": "B+ Grade",
+      "key_reason": "+26.62% 급등으로 장비 테마 탄력은 강하지만 거래대금은 817억원 수준이고 PER 30.86·PBR 4.11로 저평가 강도는 제한."
     },
     {
       "rank": 6,
-      "stock": "삼성SDI(006400)",
-      "theme": "Secondary Batteries",
-      "grade": "B+",
-      "key_reason": "거래대금 2,862.6억원으로 배터리 대형주 내 유동성은 강하지만 ROE -2.17과 PER 확인 불가로 저평가 판단은 어렵습니다."
+      "stock": "LS ELECTRIC(010120)",
+      "theme": "Power Equipment",
+      "grade": "B+ Grade",
+      "key_reason": "전력기기 대표성과 거래대금은 우수하나 PER 105.87·PBR 17.11로 가격 부담이 큼."
     },
     {
       "rank": 7,
-      "stock": "대우건설(047040)",
-      "theme": "Construction",
-      "grade": "B+",
-      "key_reason": "거래대금 1,393.1억원으로 건설주 내 유동성은 우수하지만 ROE -19.50과 PER 확인 불가가 부담입니다."
+      "stock": "가온전선(000500)",
+      "theme": "Electric Wires and Cables",
+      "grade": "B+ Grade",
+      "key_reason": "전선 테마 상승률 1위권이나 PER 69.31·PBR 7.71로 과열권. 수급 확인 전 추격은 신중."
     },
     {
       "rank": 8,
-      "stock": "한올바이오파마(009420)",
-      "theme": "Pharmaceuticals / Biotechnology",
-      "grade": "B+",
-      "key_reason": "+17.82%, 거래대금 996.6억원으로 바이오 강세의 실전 리더지만 밸류에이션 데이터가 미공개입니다."
+      "stock": "삼성전기(009150)",
+      "theme": "MLCC",
+      "grade": "A- Grade",
+      "key_reason": "거래대금 2.86조원으로 전자부품 핵심 리더이나 PER 206.29·PBR 16.81로 저평가 리포트 관점에서는 감점."
     }
   ],
   "stock_analyses": [
     {
-      "stock_name": "삼성E&A(028050)",
-      "theme_role": {
-        "theme": "Plant Engineering / Industrial Infrastructure",
-        "leader_or_follower": "리더",
-        "reason": "대형 플랜트·인프라주 중 +13.63%와 1,160.7억원 거래대금을 동시에 기록해 실전 대장 요건이 좋습니다.",
-        "catalyst": "메가프로젝트·산업 인프라 정책 기대와 건설·플랜트 순환매"
-      },
-      "price_and_trading_strength": {
-        "daily_return": "+13.63%",
-        "trading_value": "1,160.7억원",
-        "volume_increase": "확인 불가",
-        "intraday_price_quality": "확인 불가",
-        "breakout_status": "당일 강한 양봉 추정이나 고가·저가 데이터 미공개로 돌파 여부 확인 불가"
-      },
-      "valuation": {
-        "per": "15.00",
-        "pbr": "1.94",
-        "roe": "13.69",
-        "dividend_yield": "1.66%",
-        "forward_valuation": "확인 불가"
-      },
-      "investor_flow": {
-        "foreign_daily_flow": "미공개(16:00 기준)",
-        "foreign_5day_flow": "미공개(16:00 기준)",
-        "foreign_20day_flow": "미공개(16:00 기준)",
-        "institutional_daily_flow": "미공개(16:00 기준)",
-        "institutional_5day_flow": "미공개(16:00 기준)",
-        "institutional_20day_flow": "미공개(16:00 기준)",
-        "pension_fund_flow": "미공개(16:00 기준)",
-        "foreign_ownership_trend": "확인 불가"
-      },
-      "positive_factors": [
-        "PER 15.00과 ROE 13.69의 균형이 후보군 중 우수",
-        "거래대금 1,000억원 이상으로 유동성 신뢰도 높음",
-        "건설 단순 중소형주보다 대형 인프라·플랜트 대표성 보유"
-      ],
-      "negative_factors": [
-        "기관·외국인 수급 미공개로 매수 주체 확인 불가",
-        "정책·프로젝트 기대가 실제 수주와 실적으로 연결되는지 확인 필요"
-      ],
-      "final_view": {
-        "grade": "A",
-        "one_line_conclusion": "오늘의 저평가·실적·유동성 균형형 대장 후보입니다."
-      }
-    },
-    {
-      "stock_name": "SK이터닉스(475150)",
-      "theme_role": {
-        "theme": "Renewable Energy / ESS",
-        "leader_or_follower": "리더",
-        "reason": "+17.59% 상승과 4,736.0억원 거래대금으로 신재생·ESS 테마 내 가장 강한 시장 주목도를 보였습니다.",
-        "catalyst": "재생에너지·ESS 성장 기대 및 위험자산 순환매"
-      },
-      "price_and_trading_strength": {
-        "daily_return": "+17.59%",
-        "trading_value": "4,736.0억원",
-        "volume_increase": "확인 불가",
-        "intraday_price_quality": "확인 불가",
-        "breakout_status": "강한 거래대금 동반 급등이나 장중 고가 대비 위치는 확인 불가"
-      },
-      "valuation": {
-        "per": "68.59",
-        "pbr": "6.30",
-        "roe": "9.59",
-        "dividend_yield": "확인 불가",
-        "forward_valuation": "확인 불가"
-      },
-      "investor_flow": {
-        "foreign_daily_flow": "미공개(16:00 기준)",
-        "foreign_5day_flow": "미공개(16:00 기준)",
-        "foreign_20day_flow": "미공개(16:00 기준)",
-        "institutional_daily_flow": "미공개(16:00 기준)",
-        "institutional_5day_flow": "미공개(16:00 기준)",
-        "institutional_20day_flow": "미공개(16:00 기준)",
-        "pension_fund_flow": "미공개(16:00 기준)",
-        "foreign_ownership_trend": "확인 불가"
-      },
-      "positive_factors": [
-        "거래대금 기준 당일 테마 대장성 최상위",
-        "시가총액 1.73조원으로 단순 소형주 급등보다 대표성 높음",
-        "신재생·ESS라는 지속성 있는 실물 테마와 연결"
-      ],
-      "negative_factors": [
-        "PER 68.59, PBR 6.30으로 저평가보다는 성장 프리미엄 구간",
-        "배당·선행 PER 및 수급 데이터 미공개",
-        "급등 후 단기 과열 리스크 존재"
-      ],
-      "final_view": {
-        "grade": "A",
-        "one_line_conclusion": "실전 대장성은 최고지만 저평가 관점에서는 과열 확인이 필요합니다."
-      }
-    },
-    {
-      "stock_name": "계룡건설(013580)",
-      "theme_role": {
-        "theme": "Construction",
-        "leader_or_follower": "저평가 리더",
-        "reason": "+22.78% 급등과 PER 1.82, PBR 0.21, ROE 11.95 조합으로 건설주 내 저평가 매력이 가장 선명합니다.",
-        "catalyst": "건설주 전반 순환매와 메가프로젝트·인프라 기대"
-      },
-      "price_and_trading_strength": {
-        "daily_return": "+22.78%",
-        "trading_value": "175.9억원",
-        "volume_increase": "확인 불가",
-        "intraday_price_quality": "확인 불가",
-        "breakout_status": "급등은 확인되나 장중 고가·전고점 돌파 여부 확인 불가"
-      },
-      "valuation": {
-        "per": "1.82",
-        "pbr": "0.21",
-        "roe": "11.95",
-        "dividend_yield": "3.16%",
-        "forward_valuation": "확인 불가"
-      },
-      "investor_flow": {
-        "foreign_daily_flow": "미공개(16:00 기준)",
-        "foreign_5day_flow": "미공개(16:00 기준)",
-        "foreign_20day_flow": "미공개(16:00 기준)",
-        "institutional_daily_flow": "미공개(16:00 기준)",
-        "institutional_5day_flow": "미공개(16:00 기준)",
-        "institutional_20day_flow": "미공개(16:00 기준)",
-        "pension_fund_flow": "미공개(16:00 기준)",
-        "foreign_ownership_trend": "확인 불가"
-      },
-      "positive_factors": [
-        "PER 1.82, PBR 0.21로 후보군 중 가장 강한 저평가 신호",
-        "ROE 11.95로 낮은 PBR을 단순 가치함정으로만 보기 어렵게 함",
-        "배당수익률 3.16%로 하방 완충 요인 존재"
-      ],
-      "negative_factors": [
-        "거래대금 175.9억원으로 대형 리더 대비 유동성은 제한",
-        "건설업 특성상 사이클·프로젝트 손익 변동성 존재",
-        "기관·외국인 수급 확인 불가"
-      ],
-      "final_view": {
-        "grade": "A-",
-        "one_line_conclusion": "오늘의 가장 선명한 저평가 대장 후보이나 유동성은 추가 확인 필요합니다."
-      }
-    },
-    {
-      "stock_name": "LG에너지솔루션(373220)",
-      "theme_role": {
-        "theme": "Secondary Batteries / Battery Cells",
-        "leader_or_follower": "대표 리더",
-        "reason": "+16.59%와 2,370.6억원 거래대금으로 2차전지 대형주 반등의 중심에 섰습니다.",
-        "catalyst": "2차전지 대형주 동반 반등과 성장주 순환매"
-      },
-      "price_and_trading_strength": {
-        "daily_return": "+16.59%",
-        "trading_value": "2,370.6억원",
-        "volume_increase": "확인 불가",
-        "intraday_price_quality": "확인 불가",
-        "breakout_status": "대형주 기준 강한 반등이나 장중 품질은 확인 불가"
-      },
-      "valuation": {
-        "per": "확인 불가",
-        "pbr": "4.23",
-        "roe": "-7.40",
-        "dividend_yield": "확인 불가",
-        "forward_valuation": "확인 불가"
-      },
-      "investor_flow": {
-        "foreign_daily_flow": "미공개(16:00 기준)",
-        "foreign_5day_flow": "미공개(16:00 기준)",
-        "foreign_20day_flow": "미공개(16:00 기준)",
-        "institutional_daily_flow": "미공개(16:00 기준)",
-        "institutional_5day_flow": "미공개(16:00 기준)",
-        "institutional_20day_flow": "미공개(16:00 기준)",
-        "pension_fund_flow": "미공개(16:00 기준)",
-        "foreign_ownership_trend": "확인 불가"
-      },
-      "positive_factors": [
-        "KOSPI 2차전지 대표주로 테마 대표성 높음",
-        "거래대금 2,000억원 이상으로 수급 집중 확인",
-        "포스코퓨처엠·삼성SDI·에코프로머티 동반 강세로 테마 확산성 존재"
-      ],
-      "negative_factors": [
-        "ROE -7.40으로 수익성 지표는 약함",
-        "PER·배당·선행 밸류에이션 확인 불가",
-        "저평가보다는 업황 회복 기대 프리미엄 성격"
-      ],
-      "final_view": {
-        "grade": "A-",
-        "one_line_conclusion": "2차전지 대표 반등주는 맞지만 저평가형 리더로 보기엔 수익성 확인이 필요합니다."
-      }
-    },
-    {
       "stock_name": "금호건설(002990)",
       "theme_role": {
         "theme": "Construction",
-        "leader_or_follower": "수익률 리더",
-        "reason": "+29.86%로 KOSPI 주요 상승률 최상단에 위치했고 건설주 동반 강세를 견인했습니다.",
-        "catalyst": "건설·인프라 순환매와 저PBR·저PER 재평가 기대"
+        "leader_or_follower": "오늘의 저평가형 가격 리더",
+        "reason": "상승률 +29.97%로 KOSPI 상위권이며 거래대금도 약 3,118억원으로 중소형 건설주 중 이례적으로 큼.",
+        "catalyst": "지역개발·건설 정책 기대 및 장중 강한 순환매로 해석. 구체 수급 주체는 미공개(16:00 기준)."
       },
       "price_and_trading_strength": {
-        "daily_return": "+29.86%",
-        "trading_value": "107.5억원",
+        "daily_return": "+29.97%",
+        "trading_value": "약 3,118.4억원",
         "volume_increase": "확인 불가",
-        "intraday_price_quality": "확인 불가",
-        "breakout_status": "상한가권 급등이나 장중 가격 품질 확인 불가"
+        "intraday_price_quality": "상한가 마감으로 종가 강도는 매우 강함",
+        "breakout_status": "당일 급등 돌파로 추정되나 기준 차트 데이터는 확인 불가"
       },
       "valuation": {
-        "per": "4.36",
-        "pbr": "1.31",
+        "per": "5.67",
+        "pbr": "1.70",
         "roe": "31.92",
-        "dividend_yield": "2.32%",
+        "dividend_yield": "1.79%",
+        "forward_valuation": "확인 불가; Naver Finance forward_per id _cns_per not found"
+      },
+      "investor_flow": {
+        "foreign_daily_flow": "미공개(16:00 기준)",
+        "foreign_5day_flow": "미공개(16:00 기준)",
+        "foreign_20day_flow": "미공개(16:00 기준)",
+        "institutional_daily_flow": "미공개(16:00 기준)",
+        "institutional_5day_flow": "미공개(16:00 기준)",
+        "institutional_20day_flow": "미공개(16:00 기준)",
+        "pension_fund_flow": "미공개(16:00 기준)",
+        "foreign_ownership_trend": "확인 불가"
+      },
+      "positive_factors": [
+        "PER 5.67과 ROE 31.92 조합은 오늘 후보 중 가장 저평가 논리가 강함",
+        "상한가와 3,000억원대 거래대금으로 단순 저유동성 급등은 아님",
+        "배당수익률 1.79%로 최소한의 주주환원 지표 확인"
+      ],
+      "negative_factors": [
+        "건설 테마는 정책·부동산 뉴스에 민감해 지속성 검증 필요",
+        "상한가 다음 날 변동성 확대 위험",
+        "외국인·기관 수급이 미공개라 스마트머니 확인 불가",
+        "forward PER 미공개"
+      ],
+      "final_view": {
+        "grade": "A Grade",
+        "one_line_conclusion": "오늘 기준 저평가 대장주 성격은 가장 강하지만, 내일 거래대금 유지와 수급 확인이 핵심."
+      }
+    },
+    {
+      "stock_name": "삼성전자(005930)",
+      "theme_role": {
+        "theme": "Memory Semiconductors",
+        "leader_or_follower": "시장 대표 리더",
+        "reason": "KOSPI 반등을 주도한 대표 대형주이며 거래대금 약 9.67조원으로 SK하이닉스와 함께 시장 수급 중심.",
+        "catalyst": "연합뉴스 보도 기준 삼성전자 급반등 및 반도체 대형주 강세."
+      },
+      "price_and_trading_strength": {
+        "daily_return": "+3.41%",
+        "trading_value": "약 96,748.9억원",
+        "volume_increase": "확인 불가",
+        "intraday_price_quality": "종가 기준 강한 반등이나 장중 고저 정보는 확인 불가",
+        "breakout_status": "확인 불가"
+      },
+      "valuation": {
+        "per": "27.00",
+        "pbr": "4.64",
+        "roe": "19.16",
+        "dividend_yield": "0.50%",
         "forward_valuation": "확인 불가"
       },
       "investor_flow": {
@@ -554,94 +416,239 @@
         "foreign_ownership_trend": "확인 불가"
       },
       "positive_factors": [
-        "PER 4.36 대비 ROE 31.92로 수치상 밸류에이션 매력 강함",
-        "당일 상승률 최상위권",
-        "배당수익률 2.32% 확인"
+        "시장 대표성 최상위",
+        "거래대금 9.67조원으로 유동성 품질 우수",
+        "ROE 19.16으로 PBR 4.64를 일부 정당화",
+        "반도체 대형주 동반 강세로 테마 폭 확인"
       ],
       "negative_factors": [
-        "거래대금 107.5억원으로 대장주 유동성 기준은 다소 약함",
-        "건설업 이익은 프로젝트·회계성 요인에 따라 변동 가능",
-        "선행 PER 및 투자자별 수급 확인 불가"
+        "PER 27.00·PBR 4.64로 전통적 저평가 매력은 제한",
+        "외국인·기관 당일 순매수 여부 미공개",
+        "환율 상승·외국인 순매도 보도는 매크로 부담"
       ],
       "final_view": {
-        "grade": "A-",
-        "one_line_conclusion": "수익률과 저평가 매력은 강하지만 유동성 면에서 계룡건설·대우건설과 비교 관찰이 필요합니다."
+        "grade": "A Grade",
+        "one_line_conclusion": "저평가보다는 KOSPI 반등의 진짜 대형 수급 리더로 평가."
+      }
+    },
+    {
+      "stock_name": "대덕전자(353200)",
+      "theme_role": {
+        "theme": "PCB and IC Substrate",
+        "leader_or_follower": "기판 테마 가격 리더",
+        "reason": "+16.28%, 거래대금 약 2,344억원으로 PCB·IC기판 테마 내 주도력이 강함.",
+        "catalyst": "AI 서버·반도체 공급망 기대와 기판주 동반 강세."
+      },
+      "price_and_trading_strength": {
+        "daily_return": "+16.28%",
+        "trading_value": "약 2,344.0억원",
+        "volume_increase": "확인 불가",
+        "intraday_price_quality": "강한 종가 상승이나 장중 고점 근접 여부는 확인 불가",
+        "breakout_status": "당일 강한 재평가 구간으로 보이나 차트 기준 확인 불가"
+      },
+      "valuation": {
+        "per": "80.08",
+        "pbr": "8.61",
+        "roe": "11.18",
+        "dividend_yield": "0.33%",
+        "forward_valuation": "확인 불가"
+      },
+      "investor_flow": {
+        "foreign_daily_flow": "미공개(16:00 기준)",
+        "foreign_5day_flow": "미공개(16:00 기준)",
+        "foreign_20day_flow": "미공개(16:00 기준)",
+        "institutional_daily_flow": "미공개(16:00 기준)",
+        "institutional_5day_flow": "미공개(16:00 기준)",
+        "institutional_20day_flow": "미공개(16:00 기준)",
+        "pension_fund_flow": "미공개(16:00 기준)",
+        "foreign_ownership_trend": "확인 불가"
+      },
+      "positive_factors": [
+        "상승률과 거래대금이 동시에 강함",
+        "코리아써키트·이수페타시스 동반 상승으로 테마 확산 확인",
+        "AI 서버 공급망 내 기판 수요 기대와 연결 가능"
+      ],
+      "negative_factors": [
+        "PER 80.08·PBR 8.61로 저평가 매력은 낮음",
+        "ROE 11.18 대비 밸류에이션 부담 큼",
+        "수급 주체 미공개로 추격 매수 근거 부족"
+      ],
+      "final_view": {
+        "grade": "A- Grade",
+        "one_line_conclusion": "테마 리더십은 강하지만 저평가보다는 고밸류 성장 기대주 성격."
+      }
+    },
+    {
+      "stock_name": "SK(034730)",
+      "theme_role": {
+        "theme": "Holding Companies",
+        "leader_or_follower": "대형 지주·가치업 후보",
+        "reason": "+6.24%, 거래대금 약 3,054억원으로 지주주 중 강한 대형 수급이 확인됨.",
+        "catalyst": "SK그룹 지주·기업가치 제고 기대와 SK스퀘어 강세 동반."
+      },
+      "price_and_trading_strength": {
+        "daily_return": "+6.24%",
+        "trading_value": "약 3,054.6억원",
+        "volume_increase": "확인 불가",
+        "intraday_price_quality": "종가 기준 강세. 장중 체결 품질은 확인 불가",
+        "breakout_status": "확인 불가"
+      },
+      "valuation": {
+        "per": "23.18",
+        "pbr": "1.55",
+        "roe": "9.29",
+        "dividend_yield": "0.96%",
+        "forward_valuation": "확인 불가"
+      },
+      "investor_flow": {
+        "foreign_daily_flow": "미공개(16:00 기준)",
+        "foreign_5day_flow": "미공개(16:00 기준)",
+        "foreign_20day_flow": "미공개(16:00 기준)",
+        "institutional_daily_flow": "미공개(16:00 기준)",
+        "institutional_5day_flow": "미공개(16:00 기준)",
+        "institutional_20day_flow": "미공개(16:00 기준)",
+        "pension_fund_flow": "미공개(16:00 기준)",
+        "foreign_ownership_trend": "확인 불가"
+      },
+      "positive_factors": [
+        "PBR 1.55로 오늘 급등 성장주 대비 밸류 부담이 낮음",
+        "거래대금 3,000억원대의 대형주 수급 확인",
+        "SK스퀘어 강세와 함께 그룹 지주·가치업 맥락 형성"
+      ],
+      "negative_factors": [
+        "ROE 9.29로 수익성은 강한 성장주 대비 보통",
+        "PER 23.18은 지주주 관점에서 아주 싸다고 보긴 어려움",
+        "배당수익률 0.96%로 고배당 매력은 제한",
+        "투자자별 수급 미공개"
+      ],
+      "final_view": {
+        "grade": "A- Grade",
+        "one_line_conclusion": "오늘의 대형 가치업 후보로 유효하지만, 수급 주체와 NAV 할인 해소 논리 확인 필요."
+      }
+    },
+    {
+      "stock_name": "케이씨텍(281820)",
+      "theme_role": {
+        "theme": "Semiconductor Equipment",
+        "leader_or_follower": "장비 테마 급등 리더",
+        "reason": "+26.62%로 반도체 장비 후보 중 가장 강한 가격 탄력. 케이씨도 +15.72%로 계열·장비 테마 동반성 존재.",
+        "catalyst": "반도체 투자 확대 및 호남 반도체 테마 확산 속 장비주 재평가."
+      },
+      "price_and_trading_strength": {
+        "daily_return": "+26.62%",
+        "trading_value": "약 817.1억원",
+        "volume_increase": "확인 불가",
+        "intraday_price_quality": "강한 급등 마감이나 장중 고저 데이터는 확인 불가",
+        "breakout_status": "급등 돌파 가능성은 있으나 차트 데이터 확인 불가"
+      },
+      "valuation": {
+        "per": "30.86",
+        "pbr": "4.11",
+        "roe": "10.55",
+        "dividend_yield": "0.39%",
+        "forward_valuation": "확인 불가; Naver Finance forward_per id _cns_per not found"
+      },
+      "investor_flow": {
+        "foreign_daily_flow": "미공개(16:00 기준)",
+        "foreign_5day_flow": "미공개(16:00 기준)",
+        "foreign_20day_flow": "미공개(16:00 기준)",
+        "institutional_daily_flow": "미공개(16:00 기준)",
+        "institutional_5day_flow": "미공개(16:00 기준)",
+        "institutional_20day_flow": "미공개(16:00 기준)",
+        "pension_fund_flow": "미공개(16:00 기준)",
+        "foreign_ownership_trend": "확인 불가"
+      },
+      "positive_factors": [
+        "반도체 장비 내 당일 가격 탄력 최상위",
+        "거래대금 817억원으로 중형주 기준 의미 있는 유동성",
+        "PER 30.86은 고성장 반도체 장비주 중 상대적으로 과도하진 않은 편"
+      ],
+      "negative_factors": [
+        "PBR 4.11·ROE 10.55 조합은 저평가 근거가 약함",
+        "forward PER 미공개",
+        "거래대금은 삼성전자·대덕전자 대비 작아 시장 대표성 제한",
+        "외국인·기관 수급 미공개"
+      ],
+      "final_view": {
+        "grade": "B+ Grade",
+        "one_line_conclusion": "장비 테마 단기 리더이나, 저평가 대장주라기보다 내일 연속성 확인이 필요한 후보."
       }
     }
   ],
   "grade_summary": {
     "S Grade": [],
     "A Grade": [
-      "삼성E&A(028050)",
-      "SK이터닉스(475150)"
+      "금호건설(002990)",
+      "삼성전자(005930)"
     ],
     "A- Grade": [
-      "계룡건설(013580)",
-      "금호건설(002990)",
-      "LG에너지솔루션(373220)"
+      "대덕전자(353200)",
+      "SK(034730)",
+      "삼성전기(009150)",
+      "SK하이닉스(000660)"
     ],
     "B+ Grade": [
-      "삼성SDI(006400)",
-      "대우건설(047040)",
-      "한올바이오파마(009420)",
-      "아모레퍼시픽(090430)"
+      "케이씨텍(281820)",
+      "가온전선(000500)",
+      "LS ELECTRIC(010120)",
+      "이수페타시스(007660)",
+      "효성중공업(298040)"
     ],
     "B Grade": [
-      "LS ELECTRIC(010120)",
-      "두산에너빌리티(034020)",
-      "현대차(005380)"
+      "삼화콘덴서(001820)",
+      "후성(093370)",
+      "크래프톤(259960)"
     ],
     "B- Grade": [
-      "롯데손해보험(000400)"
+      "SIMPAC(009160)",
+      "케이씨(029460)"
     ],
     "Watchlist": [
-      "롯데손해보험(000400): 피인수설 이벤트성 급등",
-      "LS ELECTRIC(010120): 고밸류 부담",
-      "두산에너빌리티(034020): PER 365.15·ROE 1.98로 밸류 부담",
-      "한올바이오파마(009420): 밸류에이션 확인 필요"
+      "미래산업(025560)",
+      "만호제강(001080)",
+      "사조산업(007160)",
+      "사조씨푸드(014710)",
+      "SK이터닉스(475150)",
+      "LG에너지솔루션(373220)"
     ]
   },
   "key_takeaways": {
-    "strongest_practical_theme_today": "2차전지·신재생·건설이 동시에 강했지만, 거래대금과 확산성을 함께 보면 2차전지/배터리 셀 테마가 가장 넓었습니다.",
-    "best_true_leader": "SK이터닉스(475150): +17.59%, 거래대금 4,736.0억원으로 실전 대장성 최상위",
-    "best_undervalued_leader": "계룡건설(013580): PER 1.82, PBR 0.21, ROE 11.95",
-    "best_foreign_flow_stock": "확인 불가(16:00 기준)",
-    "best_institutional_flow_stock": "확인 불가(16:00 기준)",
-    "most_overheated_stock": "SK이터닉스(475150): 거래대금과 상승률은 최상위지만 PER 68.59, PBR 6.30으로 저평가 매력은 제한",
+    "strongest_practical_theme_today": "반도체·AI 인프라: 삼성전자·SK하이닉스 거래대금 집중, PCB·MLCC·장비로 확산.",
+    "best_true_leader": "삼성전자(005930): 지수 반등과 시장 거래대금의 핵심 대형 리더.",
+    "best_undervalued_leader": "금호건설(002990): PER 5.67, ROE 31.92, 상한가와 3,118억원 거래대금 조합.",
+    "best_foreign_flow_stock": "확인 불가(16:00 기준): 투자자별 순매수 데이터 미제공.",
+    "best_institutional_flow_stock": "확인 불가(16:00 기준): 투자자별 순매수 데이터 미제공.",
+    "most_overheated_stock": "삼성전기(009150): 거래대금과 대표성은 강하지만 PER 206.29, PBR 16.81로 밸류에이션 부담이 가장 큼.",
     "stocks_to_monitor_tomorrow": [
-      "삼성E&A(028050): 실적·밸류 균형형 대장 지속 여부",
-      "SK이터닉스(475150): 4,736억원 거래대금 이후 후속 수급 지속 여부",
-      "계룡건설(013580): 저평가 건설주 재평가 지속 여부",
-      "LG에너지솔루션(373220): 2차전지 대형주 반등 연속성",
-      "삼성SDI(006400): 배터리 대형주 내 후속 거래대금 확인",
-      "한올바이오파마(009420): 바이오 강세 지속성과 밸류 데이터 확인"
+      "금호건설(002990): 상한가 후 거래대금 유지 여부",
+      "대덕전자(353200): PCB·IC기판 테마 연속성",
+      "삼성전자(005930): 반도체 대형주 수급 지속 여부",
+      "SK(034730): 지주·가치업 수급 확산 여부",
+      "케이씨텍(281820): 장비 테마 2일차 강도",
+      "가온전선(000500): 전선 테마 과열 완화 후 재진입 가능성",
+      "LS ELECTRIC(010120): 전력기기 대표주 추세 지속 여부"
     ]
   },
   "data_sources_and_timestamp": [
     {
-      "source": "Python-collected market snapshot",
-      "timestamp": "2026-06-29 16:01:44 KST",
-      "notes": "KOSPI/KOSDAQ 지수, KOSPI 상승률·거래대금·하락률 상위, 주요 후보 종가·등락률·시총·거래대금 수집"
+      "source": "Python-collected KOSPI market snapshot",
+      "timestamp": "2026-06-30 16:03:24 KST",
+      "notes": "KOSPI/KOSDAQ 지수, KOSPI 상승률·거래대금·하락률 상위, 일부 후보 밸류에이션 및 뉴스 헤드라인을 1차 사실 근거로 사용."
     },
     {
-      "source": "Naver Finance item/main.naver",
-      "timestamp": "2026-06-29 16:01:44 KST",
-      "notes": "PER/PBR/ROE/배당 일부 수집. 일부 종목은 PER, 배당수익률, 선행 PER 필드 미확인"
+      "source": "Naver Finance item/main.naver valuation fields",
+      "timestamp": "2026-06-30 16:03:24 KST",
+      "notes": "PER, PBR, ROE, 배당수익률 일부 수집. forward PER 및 일부 배당/PER 필드는 종목별로 id 미확인 오류가 있어 확인 불가 처리."
     },
     {
       "source": "연합뉴스 경제 헤드라인",
-      "timestamp": "2026-06-29 16:00 기준",
-      "notes": "환율, 외국인 매도, 기업 지원, 반도체 투자, 롯데손해보험 피인수설 등 당일 뉴스 맥락 반영"
-    },
-    {
-      "source": "Investor flow data",
-      "timestamp": "2026-06-29 16:00 기준",
-      "notes": "종목별 외국인·기관·연기금 순매수, 5일/20일 누적, 외국인 보유율 추세는 미공개(16:00 기준)"
+      "timestamp": "2026-06-30 16:00 기준 수집분",
+      "notes": "삼성전자 급반등, 호남 반도체 테마, 서남권 첨단산업, 환율 및 외국인 순매도 관련 기사 제목을 촉매 해석에만 사용."
     },
     {
       "source": "daily_kospi_theme_leader_agent.md",
-      "timestamp": "보고서 생성 시 참조",
-      "notes": "테마 분류, 저평가 판단, 대장주 판별, 등급 기준 적용"
+      "timestamp": "2026-06-30 실행 시 참조",
+      "notes": "테마 분류, KOSPI-only 랭킹, 저평가·수급·거래대금 중심 평가 규칙 및 JSON 출력 계약을 적용."
     }
   ],
   "disclaimer": "본 리포트는 시장 모니터링/리서치 목적이며 투자 권유가 아닙니다. 실제 투자 판단 전 수치와 공시를 반드시 재확인하세요."
